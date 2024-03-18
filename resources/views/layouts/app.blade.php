@@ -10,8 +10,8 @@
     <style>
         /* Tambahkan gaya khusus untuk footer */
         footer {
-            background-color: #333; /* Warna latar belakang */
-            color: #fff; /* Warna teks */
+            background-color: #dcdee0; /* Warna latar belakang */
+            color: black; /* Warna teks */
             padding: 20px 0; /* Ruang padding */
             text-align: center; /* Pusatkan teks */
         }
